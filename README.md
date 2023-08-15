@@ -1,23 +1,26 @@
-# ِDaily report  22-6-1402
-
+# ِDaily report  24-5-1402
+### Mistake
+the commit i done for OOP exercises date is wrong
 ### Tasks Overview
-* CRUD
+* OOP exercise
 * authentication
-* course
+  
 
 ### Tasks Detail
-* learned basic CRUD operation with pymongo(mongodb) in FastAPI
-* learned and research about authentication with FastAPI
-* finded some source for authentication 
+* done the OOP exercises 
+* learned about hasing password, chacking username password and return a token 
 
 
 ### Next tasks
-* more research about authentication and security
-* review in python OOP or learn more
+* learning auth better
+* jwt token base auth 
 
 
 ### Challanges
-no Challanges: no pain no gain
+* problem in understanding of how code work in auth in all courses even Document (need more time or some help)
+
+### What i have learned
+* some times document is best LOL 
 
 ###Conclusion
-It takes time to get used to working hard :)
+Human grows when he breaks his limits by working hard and enduring  :)
