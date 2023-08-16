@@ -1,0 +1,25 @@
+
+# Daily report  25-5-1402
+
+### Overview
+* authentication 
+
+### Task Detail
+* done Login and register form in fastapi with JWT (vargha you must check it)
+
+
+
+### Next tasks
+* research about logout and authentication system
+
+
+### Challanges
+* it was hard to understand the code about JWT auth
+
+
+### What i have learned
+* documentation of fastapi helped alot maybe documentation is not bad like that i thought
+
+### Conclusion
+* some times a little rest can help alot 
+* documents are not bad LOL
