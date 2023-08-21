@@ -1,22 +1,23 @@
-# ِDaily report  26-5-1402
+# ِDaily report  29-5-1402
 
 ### Tasks Overview
-* didn't done anything today
+* JWT 
+
   
 
 ### Tasks Detail
-* just resting
+* working on JWT in fastapi on cookie base
 
 
 ### Next tasks
-* JWT logout
+* still learning JWT and its work
 
 
 ### challenges
-* no challenges
+* for the library (fastapi-users) got a little bad duc
 
 ### What i have learned
-* nothing 
+* paiiiiiiin you made me a self believer !!!
 
 ### Conclusion
 * nothing today sir
