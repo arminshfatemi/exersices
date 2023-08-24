@@ -1,28 +1,29 @@
-# ِDaily report  31-5-1402
+# ِDaily report  1-6-1402
 
 ### Tasks Overview
-* review on django 
-* cookie JWT test fastAPI
-* started learning Flask
+* worked on beauty site task 
+* basic of flask learned
+
 
   
 
 ### Tasks Detail
-* review on django 
-* cookie base authenticate is done 
-* started learning flask and almost basic is learned
+* for beauty site i have done a part of authenticate
+* learned basic of flask but not smooth it these lessons yet  
+
 
 
 ### Next tasks
-* learning flask
-* starting doing django task that is given to me 
+* do more on beauty site (maybe do the view for auth and check the auth flow)
+
 
 
 ### challenges
-* lack of confident for first back-end project 
+* connecting mongo db to django
+* and lack of confident in my skill 
 
 ### What i have learned
-* nothing to do
+* nothing to say
 
 ### Conclusion
-* im starting to go in depth of python back-end programming 
+* first time always is hard
