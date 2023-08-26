@@ -1,26 +1,24 @@
 
-# Daily report  30-5-1402
+# Daily report  5-6-1402
 
 ### Overview :
-* fastapi finished
-* fastapi skill test
+* beauty site image base64
 
 
 ### Task Detail :
-* fastapi is finished i will learn more about it in projects that gunna do
-* doing some exercise to check my skill in fastapi
+* i done the test that save image form client in database in base64 format
 
 ### Next tasks :
-* finish testing and check if im done with fastapi
-* start learning flask
+* make a full form for doctor user to add patient and check it in DB
+* try ro start dashboard and finish it 
 
 
 ### Challenges :
-* no challenges easy day
+* nothing 
 
 
 ### What I have learned :
-* nothing
+* right now im building a project in R&D
 
 ### Conclusion :
-* nothing 
+* ;)
