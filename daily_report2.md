@@ -1,5 +1,4 @@
-
-# Daily report  5-6-1402
+# Daily report  4-6-1402
 
 ### Overview :
 * beauty site image base64

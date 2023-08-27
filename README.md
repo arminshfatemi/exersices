@@ -1,29 +1,26 @@
-# ِDaily report  1-6-1402
+# ِDaily report  5-6-1402
 
 ### Tasks Overview
-* worked on beauty site task 
-* basic of flask learned
+* beauty site dashboard 
 
 
   
 
 ### Tasks Detail
-* for beauty site i have done a part of authenticate
-* learned basic of flask but not smooth it these lessons yet  
+* beauty site dashboard complete
 
 
 
 ### Next tasks
-* do more on beauty site (maybe do the view for auth and check the auth flow)
+* api 
 
 
 
 ### challenges
-* connecting mongo db to django
-* and lack of confident in my skill 
+* some bugs took about 4 hour to fix 
 
 ### What i have learned
 * nothing to say
 
 ### Conclusion
-* first time always is hard
+* i found that i hate bugs in both real life and in programming
