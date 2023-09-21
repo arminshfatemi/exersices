@@ -1,22 +1,19 @@
-# ِDaily report  28-7-1402
+# ِDaily report  29-7-1402
 
 ### Tasks Overview
-done a review and learned more about Docker,
-im trying to use all of my available time for learning docker
+learned more about docker and what is mounting
 
 
   
 
 ### Tasks Detail
-1. full review from what i have learned in past
-2. learned a little about how to use bash in container 
-3. how to put my image in Dockerhub
-4. what is volume in Docker
+1. learned more about what is mounting
+2. learned about what is bind mounting in docker and what is does do
+3. learned a little about how to work with multi containers 
 
 
 
 ### Next tasks
-* learn more about mounting (volume) in docker
 * Dockerfile
 * how to use multi container
 * docker compose (.yml files)
