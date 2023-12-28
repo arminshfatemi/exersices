@@ -1,32 +1,13 @@
-# ِDaily report  29-7-1402
+# OOP Exercises
 
-### Tasks Overview
-learned more about docker and what is mounting
+- This repository contains OOP Exercises with comments to explains the code
+for newbies programmers , to help understand this concept .
 
+### Before starting
+- Make sure you know classes, functions and then Read or train this Exercises.
 
-  
+### Contribution
 
-### Tasks Detail
-1. learned more about what is mounting
-2. learned about what is bind mounting in docker and what is does do
-3. learned a little about how to work with multi containers 
-
-
-
-### Next tasks
-* Dockerfile
-* how to use multi container
-* docker compose (.yml files)
-
-
-
-### challenges
-docker its a world for its self XD as i can see its impossible it,
-looks like finishing it means im a docker expert and i can work in devops team LOL,
-question is how much i need to learn for back-end
-
-### What i have learned
-* nothing to say
-
-### Conclusion
-* some much to learn but love it
+- Fill free and clone this repo , and if someone wants to add a it's own exercise I will accept.
+***
+I hope this repo help everyone. 
