@@ -27,7 +27,7 @@ class Student(Person):
         """)
 
 
-student1 = Student('armin', 22, 2123)
+student1 = Student('mike', 22, 2123)
 student1.get_all_info()
 print('------------------')
-student1.name_age_change('vargha', 22, 12334)
+student1.name_age_change('eren', 22, 12334)

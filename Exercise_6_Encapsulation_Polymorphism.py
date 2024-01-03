@@ -71,10 +71,10 @@ class Developer(Employee):
         """)
 
 
-manager = Manager('armin', 1000, 'back-end')
+manager = Manager('mike', 1000, 'back-end')
 manager.get_bones()
 manager.getter()
 
 
-dev = Developer('reza', 500, 'Intern')
+dev = Developer('sezar', 500, 'Intern')
 dev.get_bones()

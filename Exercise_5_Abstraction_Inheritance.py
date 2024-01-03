@@ -5,12 +5,13 @@ class BankAccount(ABC):
     def __init__(self):
         self._balance = 0
 
+    #  add: int means we prefer that given argument to be int
     @abstractmethod
-    def deposit(self, saadd: int):
+    def deposit(self, add: int):
         pass
 
     @abstractmethod
-    def withdraw(self, saminus: int):
+    def withdraw(self, minus: int):
         pass
 
     @abstractmethod
@@ -60,8 +61,6 @@ class CheckingAccount(BankAccount):
     def setter(self, new_balance):
         self._balance = new_balance
         print(f"Setter balance change: {self._balance}")
-
-
 
 
 acc1 = SavingsAccount()

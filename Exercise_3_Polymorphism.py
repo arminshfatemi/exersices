@@ -19,13 +19,16 @@ class Cow(Animal):
         print('- cow says Moo')
 
 
+# a function that accept class instances to use the speak method of them
+# for better understanding go and search about how *args and **kwargs work
 def animal_speak(*args):
-    class_list = [*args]
-    for spk in class_list:
+    for spk in args:
         spk.speak()
 
 
+# created an instance for all the classes
 cow = Cow()
 dog = Dog()
 cat = Cat()
+# put them in this function and function will call the speak method of them
 animal_speak(cow, dog, cat)
